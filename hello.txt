@@ -1,3 +1,4 @@
 - melakukan pull request melalui fork
 
-melakukan comit branches 1
+- melakukan comit branches baru 1
+- melakukan comit branches baru 2
